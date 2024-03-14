@@ -1,4 +1,7 @@
 # Niklas Website
-Servus, des isch mei eigene Website. I hoff sie gfollt eich guat.
+Hallo, das ist meine Website. Ich hoffe euch gefällt sie.
+Folgt mir bitte auf Instagram und Twitter.
 
-euer Niggi
+Euer Niklas
+
+P.S. Dies ist die Verison 1.2.0
